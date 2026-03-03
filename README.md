@@ -44,12 +44,12 @@ DataScience_Projects/
 
 Os projetos foram desenvolvidos com as seguintes ferramentas:
 
-- 🐍 **Python**
-  - 📊 Pandas
-  - 📈 Matplotlib / Seaborn
-  - 🤖 Scikit-learn (machine learning) :contentReference[oaicite:2]{index=2}
-- 📘 **Jupyter Notebooks**
-- (opcional) ferramentas adicionais como NumPy, SciPy e bibliotecas de pré-processamento de dados
+  - Python
+  - Pandas
+  - Matplotlib / Seaborn
+  - Scikit-learn (machine learning) :contentReference[oaicite:2]{index=2}
+  - Jupyter Notebooks**
+  - Ferramentas adicionais como NumPy, SciPy e bibliotecas de pré-processamento de dados
 
 ---
 
