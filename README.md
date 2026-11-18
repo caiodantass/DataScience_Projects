@@ -1,4 +1,4 @@
-# 📊 Data Science & Applied Statistics Portfolio
+# Data Science & Applied Statistics Portfolio
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Notebooks-Jupyter-F37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
