@@ -12,9 +12,9 @@ Os estudos abordam pipelines completos de ETL, manipulação de grandes volumes 
 
 ---
 
-## 🔬 Projetos e Estudos de Caso
+## Projetos e Estudos de Caso
 
-### 1. 🛣️ Análise Espaço-Temporal de Acidentes Rodoviários Federais
+### 1. Análise Espaço-Temporal de Acidentes Rodoviários Federais
 > **Notebook:** `PROJETO 1 - PRF.ipynb`  
 > **Fonte de Dados:** Dados Abertos da Polícia Rodoviária Federal (PRF - 2018 a 2021)
 
@@ -26,7 +26,7 @@ Os estudos abordam pipelines completos de ETL, manipulação de grandes volumes 
 
 ---
 
-### 2. 🎓 Evolução e Indicadores do Ensino Superior no Brasil
+### 2. Evolução e Indicadores do Ensino Superior no Brasil
 > **Notebook:** `Projeto 2 - Ens. Superior do BR.ipynb`  
 > **Fonte de Dados:** Censo da Educação Superior / Microdados MEC/INEP
 
@@ -38,7 +38,7 @@ Os estudos abordam pipelines completos de ETL, manipulação de grandes volumes 
 
 ---
 
-### 3. 🚓 Análise Estatística de Abordagens Policiais (Stanford Policing Dataset)
+### 3. Análise Estatística de Abordagens Policiais (Stanford Policing Dataset)
 > **Notebook:** `Projeto 3.ipynb`  
 > **Fonte de Dados:** Rhode Island Traffic Stops Dataset (The Stanford Open Policing Project)
 
@@ -50,7 +50,7 @@ Os estudos abordam pipelines completos de ETL, manipulação de grandes volumes 
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 | Categoria | Ferramentas |
 | :--- | :--- |
@@ -62,7 +62,7 @@ Os estudos abordam pipelines completos de ETL, manipulação de grandes volumes 
 
 ---
 
-## 🚀 Como Executar Localmente
+## Como Executar Localmente
 
 ### Pré-requisitos
 * Python 3.9 ou superior instalado.
@@ -87,7 +87,7 @@ jupyter lab
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Caio Lívio Dantas**  
 * Engenheiro de Software / Desenvolvedor  
